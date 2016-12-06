@@ -80,6 +80,10 @@ $ bundle exec pgb benchmark_database triggers 1_000 2> /dev/null
 0.3970880000015313
 ```
 
+## Examples
+
+- [Insert N Records](./examples/pg_benchmarks/insert_n_records)
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
