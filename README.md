@@ -83,6 +83,7 @@ $ bundle exec pgb benchmark_database triggers 1_000 2> /dev/null
 ## Examples
 
 - [Insert N Records](./examples/pg_benchmarks/insert_n_records)
+- [Index N Records Concurrently](./examples/pg_benchmarks/index_n_records_concurrently)
 
 ## Development
 
