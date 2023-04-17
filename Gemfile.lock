@@ -20,7 +20,7 @@ GEM
     pry-byebug (3.4.1)
       byebug (~> 9.0)
       pry (~> 0.10)
-    rake (10.5.0)
+    rake (13.0.6)
     rspec (3.5.0)
       rspec-core (~> 3.5.0)
       rspec-expectations (~> 3.5.0)
@@ -45,7 +45,7 @@ DEPENDENCIES
   pg_benchmark!
   pry (~> 0.10)
   pry-byebug (~> 3.4)
-  rake (~> 10.0)
+  rake (~> 13.0)
   rspec (~> 3.0)
 
 BUNDLED WITH
